@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: #9fd4f3;
+}
+.allcanvas{
+    border: 8px solid black;
+    margin:60px;
+}
+#sweden{
+    background-color: #006AA7;
+}
+#france{
+    background-color: #FFFFFF;
+}
+#germany{
+    background-color: #DD0000;
+}
